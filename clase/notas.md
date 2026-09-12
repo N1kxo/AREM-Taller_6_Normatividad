@@ -1,7 +1,7 @@
 # 🗒️ Registro de Trabajo en Clase - Taller 6: Normatividad
 
 ## 📆 Fecha de la sesión
-[COMPLETAR: fecha de la clase]
+Sabado 12 de Septiembre de 2026
 
 ## 👥 Integrantes presentes
 - Nicolas Esteban Muñoz Sendoya
