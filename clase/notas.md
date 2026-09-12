@@ -19,10 +19,6 @@ Sabado 12 de Septiembre de 2026
 - Herramientas usadas: Excel (`checklist-gobdata.xlsx`) [COMPLETAR si también usaron pizarra/draw.io/Astah para bocetar antes de pasar a Excel].
 - Se alcanzó a completar el diligenciamiento íntegro del checklist de GobData (Checklist General + Brechas Identificadas), quedando pendiente para después de clase su aplicación al cliente real (PQRSF).
 
-## 🧩 Boceto inicial del modelo
-
-[COMPLETAR: si hubo boceto en papel/pizarra antes de pasar a Excel, insertar aquí imagen o descripción]
-
 ## 🔁 Tareas definidas para complementar el taller
 
 | Tarea asignada | Responsable | Fecha estimada |
